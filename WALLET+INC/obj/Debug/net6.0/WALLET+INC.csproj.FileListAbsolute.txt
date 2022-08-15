@@ -1,0 +1,8 @@
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.csproj.AssemblyReference.cache
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.AssemblyInfoInputs.cache
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.AssemblyInfo.cs
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.csproj.CoreCompileInputs.cache
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.RazorAssemblyInfo.cache
+C:\Users\OSHOBA FATAI K\source\repos\WALLET+INC\WALLET+INC\obj\Debug\net6.0\WALLET+INC.RazorAssemblyInfo.cs
